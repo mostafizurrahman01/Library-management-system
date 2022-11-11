@@ -1,0 +1,171 @@
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes\Project practice\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes\Project practice\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes\Project practice\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes\Project practice\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes\Project practice\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes\Project practice\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes\Project practice\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes\Project practice\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes\Project practice\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes\Project practice\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LoginForm.resources
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes\Project practice\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SignupForm.resources
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes(practice)\Project(test)\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes(practice)\Project(test)\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes(practice)\Project(test)\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes(practice)\Project(test)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes(practice)\Project(test)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LoginForm.resources
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes(practice)\Project(test)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes(practice)\Project(test)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SignupForm.resources
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes(practice)\Project(test)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes(practice)\Project(test)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes(practice)\Project(test)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes(practice)\Project(test)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LoginForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SignupForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\LibraryManagementSystem\bin\Debug\DataAccessLayerSignUp.dll
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\LibraryManagementSystem\bin\Debug\DataAccessLayerSignUp.pdb
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CopyComplete
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes\Project\Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes\Project\Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes\Project\Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes\Project\Project\LibraryManagementSystem\bin\Debug\DataAccessLayerSignUp.dll
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes\Project\Project\LibraryManagementSystem\bin\Debug\DataAccessLayerSignUp.pdb
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LoginForm.resources
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SignupForm.resources
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CopyComplete
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.HomePageForm.resources
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddBooksForm.resources
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SearchBooksForm.resources
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddStudentForm.resources
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.StudentInformationForm.resources
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.IssueBooksForm.resources
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ReturnBooksForm.resources
+C:\Users\HP\OneDrive\Desktop\University\5th semester\OOP2\codes\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddRemoveAdminForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated\Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated\Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated\Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated\Project\LibraryManagementSystem\bin\Debug\DataAccessLayerSignUp.dll
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated\Project\LibraryManagementSystem\bin\Debug\DataAccessLayerSignUp.pdb
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddRemoveAdminForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddBooksForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddStudentForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.HomePageForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.IssueBooksForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LoginForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ReturnBooksForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SignupForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.StudentInformationForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CopyComplete
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminPage.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.BorrowBookForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SearchBookStudent.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SearchBooksFormAdmin.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.StudentProfileForm.resources
+C:\Users\HP\OneDrive\Desktop\C#Project\Project\Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\HP\OneDrive\Desktop\C#Project\Project\Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\HP\OneDrive\Desktop\C#Project\Project\Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\HP\OneDrive\Desktop\C#Project\Project\Project\LibraryManagementSystem\bin\Debug\DataAccessLayerSignUp.dll
+C:\Users\HP\OneDrive\Desktop\C#Project\Project\Project\LibraryManagementSystem\bin\Debug\DataAccessLayerSignUp.pdb
+C:\Users\HP\OneDrive\Desktop\C#Project\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\C#Project\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddRemoveAdminForm.resources
+C:\Users\HP\OneDrive\Desktop\C#Project\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddBooksForm.resources
+C:\Users\HP\OneDrive\Desktop\C#Project\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddRemoveLibrarianForm.resources
+C:\Users\HP\OneDrive\Desktop\C#Project\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddStudentForm.resources
+C:\Users\HP\OneDrive\Desktop\C#Project\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminPage.resources
+C:\Users\HP\OneDrive\Desktop\C#Project\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.BorrowBookForm.resources
+C:\Users\HP\OneDrive\Desktop\C#Project\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.HomePageForm.resources
+C:\Users\HP\OneDrive\Desktop\C#Project\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.IssueBooksForm.resources
+C:\Users\HP\OneDrive\Desktop\C#Project\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianPageForm.resources
+C:\Users\HP\OneDrive\Desktop\C#Project\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LoginForm.resources
+C:\Users\HP\OneDrive\Desktop\C#Project\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\C#Project\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ReturnBooksForm.resources
+C:\Users\HP\OneDrive\Desktop\C#Project\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SearchBookStudent.resources
+C:\Users\HP\OneDrive\Desktop\C#Project\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SearchBooksFormAdmin.resources
+C:\Users\HP\OneDrive\Desktop\C#Project\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SignupForm.resources
+C:\Users\HP\OneDrive\Desktop\C#Project\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.StudentInformationForm.resources
+C:\Users\HP\OneDrive\Desktop\C#Project\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.StudentProfileForm.resources
+C:\Users\HP\OneDrive\Desktop\C#Project\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewLibrarianInformationForm.resources
+C:\Users\HP\OneDrive\Desktop\C#Project\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\C#Project\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\C#Project\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CopyComplete
+C:\Users\HP\OneDrive\Desktop\C#Project\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\HP\OneDrive\Desktop\C#Project\Project\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Project\LibraryManagementSystem\bin\Debug\DataAccessLayerSignUp.dll
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Project\LibraryManagementSystem\bin\Debug\DataAccessLayerSignUp.pdb
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddRemoveAdminForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddBooksForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddRemoveLibrarianForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddStudentForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminPage.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.BorrowBookForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.HomePageForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.IssueBooksForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianPageForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LoginForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ReturnBooksForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SearchBookStudent.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SearchBooksFormAdmin.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SignupForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.StudentInformationForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.StudentProfileForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewLibrarianInformationForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CopyComplete
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Library Management System (GroupNo -12)\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Library Management System (GroupNo -12)\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Library Management System (GroupNo -12)\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Library Management System (GroupNo -12)\LibraryManagementSystem\bin\Debug\DataAccessLayerSignUp.dll
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Library Management System (GroupNo -12)\LibraryManagementSystem\bin\Debug\DataAccessLayerSignUp.pdb
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Library Management System (GroupNo -12)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Library Management System (GroupNo -12)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddRemoveAdminForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Library Management System (GroupNo -12)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddBooksForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Library Management System (GroupNo -12)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddRemoveLibrarianForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Library Management System (GroupNo -12)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddStudentForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Library Management System (GroupNo -12)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AdminPage.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Library Management System (GroupNo -12)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.BorrowBookForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Library Management System (GroupNo -12)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.HomePageForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Library Management System (GroupNo -12)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.IssueBooksForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Library Management System (GroupNo -12)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LibrarianPageForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Library Management System (GroupNo -12)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LoginForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Library Management System (GroupNo -12)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Library Management System (GroupNo -12)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ReturnBooksForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Library Management System (GroupNo -12)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SearchBookStudent.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Library Management System (GroupNo -12)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SearchBooksFormAdmin.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Library Management System (GroupNo -12)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SignupForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Library Management System (GroupNo -12)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.StudentInformationForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Library Management System (GroupNo -12)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.StudentProfileForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Library Management System (GroupNo -12)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ViewLibrarianInformationForm.resources
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Library Management System (GroupNo -12)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Library Management System (GroupNo -12)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Library Management System (GroupNo -12)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CopyComplete
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Library Management System (GroupNo -12)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+D:\Summer Semester (2021)\C sharp\Lab\Final Term\Project Updated New\Library Management System (GroupNo -12)\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
